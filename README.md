@@ -1,5 +1,28 @@
 # Surface-IL-water
 
+Check our work out published on the  https://doi.org/10.1002/cphc.202300551: "The Surface of Ionic Liquids in Water: From an Ionic Tug of War to a Quasi-Ordered Two-Dimensional Layer".
+
+## How to Cite this Work
+
+M.-M. Walz, M. R. M. Signorelli, C. Caleman, L. T. Costa, O. Björneholm, ChemPhysChem 2024, 25, e202300551. https://doi.org/10.1002/cphc.202300551.
+To cite this works, please use this as reference:
+
+@article{https://doi.org/10.1002/cphc.202300551,
+author = {Walz, Marie-Madeleine and Signorelli, Matheus Ruas Miranda and Caleman, Carl and Costa, Luciano T. and Björneholm, Olle},
+title = {The Surface of Ionic Liquids in Water: From an Ionic Tug of War to a Quasi-Ordered Two-Dimensional Layer},
+journal = {ChemPhysChem},
+volume = {25},
+number = {1},
+pages = {e202300551},
+keywords = {ionic liquids, molecular dynamics, water-IL interface, water surface, XPS},
+doi = {https://doi.org/10.1002/cphc.202300551},
+url = {https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cphc.202300551},
+eprint = {https://chemistry-europe.onlinelibrary.wiley.com/doi/pdf/10.1002/cphc.202300551},
+year = {2024},
+}
+
+
+
 ## Abstract
 
 
