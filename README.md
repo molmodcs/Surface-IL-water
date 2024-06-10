@@ -7,6 +7,7 @@ Check our work out published on the  https://doi.org/10.1002/cphc.202300551: "Th
 M.-M. Walz, M. R. M. Signorelli, C. Caleman, L. T. Costa, O. Björneholm, ChemPhysChem 2024, 25, e202300551. https://doi.org/10.1002/cphc.202300551.
 To cite this works, please use this as reference:
 
+```
 @article{https://doi.org/10.1002/cphc.202300551,
 author = {Walz, Marie-Madeleine and Signorelli, Matheus Ruas Miranda and Caleman, Carl and Costa, Luciano T. and Björneholm, Olle},
 title = {The Surface of Ionic Liquids in Water: From an Ionic Tug of War to a Quasi-Ordered Two-Dimensional Layer},
@@ -20,11 +21,9 @@ url = {https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cphc.202
 eprint = {https://chemistry-europe.onlinelibrary.wiley.com/doi/pdf/10.1002/cphc.202300551},
 year = {2024},
 }
-
-
+```
 
 ## Abstract
-
 
 The sustainable development encompasses the search for new materials for energy storage,
 gas capture, separation, and solvents in industrial processes that can substitute conventional
@@ -41,4 +40,9 @@ surface enrichment due to the low surface propensity of chloride. In contrast, t
 containing a bistriflimide anion are extremely surface-enriched due to cooperative surface propensity 
 between the cations and anions, forming a two-dimensional ionic liquid on the water surface at low concentrations.
 
+<img
+  src="./TOC.png"
+  alt="Alt text"
+  title="Graphical abstract"
+  style="display: inline-block; margin: 1.5 auto; max-width: 300px">
 
