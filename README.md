@@ -41,7 +41,7 @@ containing a bistriflimide anion are extremely surface-enriched due to cooperati
 between the cations and anions, forming a two-dimensional ionic liquid on the water surface at low concentrations.
 
 <img
-  src="./TOC.png"
+  src="./TOC.jpg"
   alt="Alt text"
   title="Graphical abstract"
   style="display: inline-block; margin: 1.5 auto; max-width: 300px">
