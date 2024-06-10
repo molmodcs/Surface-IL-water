@@ -5,7 +5,7 @@ Check our work out published on the  https://doi.org/10.1002/cphc.202300551: "Th
 ## How to Cite this Work
 
 M.-M. Walz, M. R. M. Signorelli, C. Caleman, L. T. Costa, O. Björneholm, ChemPhysChem 2024, 25, e202300551. https://doi.org/10.1002/cphc.202300551.
-To cite this works, please use this as reference:
+To cite this work, please use this as reference:
 
 ```
 @article{https://doi.org/10.1002/cphc.202300551,
